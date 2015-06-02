@@ -68,7 +68,7 @@ set backupskip=/tmp/*,/private/tmp/*
 set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 set writebackup
 
-let g:nerdtreedirarrows=0
+let g:NERDTreeDirArrows=0
 
 colorscheme koehler
 
